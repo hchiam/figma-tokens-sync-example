@@ -2,7 +2,9 @@
 
 Using [open-props](https://github.com/argyleink/open-props) in [figma-tokens](https://github.com/six7/figma-tokens).
 
-https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
+Use this for the URL https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
+
+Sync > URL > Add new credentials > Name and [URL](https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json) > Save > Tokens
 
 ![setup](setup.gif)
 
