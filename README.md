@@ -8,6 +8,6 @@ Sync > URL > Add new credentials > Name and [URL](https://raw.githubusercontent.
 
 ![setup](setup.gif)
 
-The JSON tab uses the top-level string `"open-props"` as the name, so if you're manually copy-pasting into the JSON tab, you can go one level down to things like `"color"`, `"sizing"`, etc.
+The JSON tab uses the top-level string `"open-props"` as the name, so if you're manually copy-pasting into the JSON tab, you can go one level down to things like `"color"`, `"sizing"`, etc. Note that it doesn't necessarily match the "Name" that you entered for credentials in the Sync tab.
 
 ![JSON tab looks different](json-tab-looks-different.png)
