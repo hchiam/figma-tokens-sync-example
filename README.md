@@ -8,6 +8,12 @@ Use this URL:
 https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
 ```
 
+Or:
+
+```txt
+https://unpkg.com/open-props/open-props.figma-tokens.sync.json
+```
+
 Settings > Sync providers > Add new > URL > Name and [URL](https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json) > Save > Tokens.
 
 <a href="https://www.youtube.com/watch?v=fE9RgBHmGPQ">
