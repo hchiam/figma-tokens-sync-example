@@ -8,12 +8,6 @@ For example, use this URL:
 https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
 ```
 
-Or use the latest official OP tokens: (don't include "sync" in the link to omit top-level `"open-props": {`)
-
-```txt
-https://unpkg.com/open-props/open-props.figma-tokens.json
-```
-
 Settings > Sync providers > Add new > URL > Name and [URL](https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json) > Save > Tokens.
 
 <a href="https://www.youtube.com/watch?v=fE9RgBHmGPQ">
@@ -31,3 +25,11 @@ So if you instead manually copy-paste the JSON contents into Tokens > `{}` JSON 
 </a>
 
 [See on YouTube](https://www.youtube.com/watch?v=pdxj41pnaOk)
+
+## TODO
+
+Try to use the official OP tokens: 
+
+```txt
+https://unpkg.com/open-props@1.6.16/open-props.figma-tokens.sync.json
+```
