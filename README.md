@@ -28,8 +28,10 @@ So if you instead manually copy-paste the JSON contents into Tokens > `{}` JSON 
 
 ## TODO
 
-Try to use the official OP tokens: 
+The official OP tokens should work.
+
+Copy this URL into your browser to automatically get the latest version number in the URL:
 
 ```txt
-https://unpkg.com/open-props@1.6.16/open-props.figma-tokens.sync.json
+https://unpkg.com/open-props/open-props.figma-tokens.sync.json
 ```
