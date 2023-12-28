@@ -8,7 +8,7 @@ For example, use this URL:
 https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
 ```
 
-Or: (don't include "sync" in the link to omit top-level `"open-props": {`)
+Or use the latest official OP tokens: (don't include "sync" in the link to omit top-level `"open-props": {`)
 
 ```txt
 https://unpkg.com/open-props/open-props.figma-tokens.json
