@@ -8,10 +8,10 @@ Use this URL:
 https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json
 ```
 
-Or:
+Or: (don't include "sync" in the link to omit top-level `"open-props": {`)
 
 ```txt
-https://unpkg.com/open-props/open-props.figma-tokens.sync.json
+https://unpkg.com/open-props/open-props.figma-tokens.json
 ```
 
 Settings > Sync providers > Add new > URL > Name and [URL](https://raw.githubusercontent.com/hchiam/figma-tokens-sync-example/main/open-props.figma-tokens.sync.json) > Save > Tokens.
